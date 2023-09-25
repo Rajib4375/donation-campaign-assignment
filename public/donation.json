@@ -7,7 +7,8 @@
       "description":"Health is a state of physical, mental, and social well-being in which an individual or organism functions at their optimal level. It is a complex and multifaceted concept that encompasses various aspects of an individual's life.",
       "price": 799.99,
       "background_color": "#0052FF26",
-      "text_color":"#0052FF"
+      "text_color":"#0052FF",
+      "btn_bg":"#0052FF33"
     },
     {
         "id": "2",
@@ -17,7 +18,9 @@
         "description":"Education is a fundamental and lifelong process of acquiring knowledge, skills, values, and attitudes. It plays a vital role in personal development, societal progress, and economic growth.",
         "price": 500.99,
         "background_color": "#FF444A26",
-        "text_color":"#FF444A"
+        "text_color":"#FF444A",
+        "btn_bg":"#FF444A33"
+
     },
     {
         "id": "3",
@@ -27,7 +30,9 @@
         "description":"In summary, clothing is an integral part of human life, serving functional, cultural, and expressive purposes. It encompasses a wide range of styles, materials, and designs, making it a dynamic and evolving aspect of human culture and identity.",
         "price": 800.99,
         "background_color": "#79C23F26",
-        "text_color":"#79C23F"
+        "text_color":"#79C23F",
+        "btn_bg":"#79C23F33"
+
     },
     {
         "id": "4",
@@ -37,7 +42,8 @@
         "description":"Better Food for Everyone represents a noble and aspirational goal related to improving the quality of food and the overall food system for the benefit of individuals and society as a whole..",
         "price": 350.99,
         "background_color": "#F8714726",
-        "text_color":"#F87147"
+        "text_color":"#F87147",
+        "btn_bg":"#F8714733"
     },
     {
         "id": "5",
@@ -47,7 +53,8 @@
         "description":"Better Food for Everyone represents a noble and aspirational goal related to improving the quality of food and the overall food system for the benefit of individuals and society as a whole..",
         "price": 350.99,
         "background_color": "#F8714726",
-        "text_color":"#F87147"
+        "text_color":"#F87147",
+        "btn_bg":"#F8714733"
     },
     {
         "id": "6",
@@ -57,7 +64,8 @@
         "description":"In summary, clothing is an integral part of human life, serving functional, cultural, and expressive purposes. It encompasses a wide range of styles, materials, and designs, making it a dynamic and evolving aspect of human culture and identity.",
         "price": 800.99,
         "background_color": "#79C23F26",
-        "text_color":"#79C23F"
+        "text_color":"#79C23F",
+        "btn_bg":"#79C23F33"
     },
     {
         "id": "7",
@@ -67,7 +75,8 @@
         "description":"Education is a fundamental and lifelong process of acquiring knowledge, skills, values, and attitudes. It plays a vital role in personal development, societal progress, and economic growth.",
         "price": 500.99,
         "background_color": "#FF444A26",
-        "text_color":"#FF444A"
+        "text_color":"#FF444A",
+        "btn_bg":"#FF444A33"
     },
     {
         "id": "8",
@@ -77,7 +86,8 @@
         "description":"Health is a state of physical, mental, and social well-being in which an individual or organism functions at their optimal level. It is a complex and multifaceted concept that encompasses various aspects of an individual's life.",
         "price": 799.99,
         "background_color": "#0052FF26",
-        "text_color":"#0052FF"
+        "text_color":"#0052FF",
+        "btn_bg":"#0052FF33"
     },
     
   
@@ -89,7 +99,8 @@
         "description":"Health is a state of physical, mental, and social well-being in which an individual or organism functions at their optimal level. It is a complex and multifaceted concept that encompasses various aspects of an individual's life.",
         "price": 799.99,
         "background_color": "#0052FF26",
-        "text_color":"#0052FF"
+        "text_color":"#0052FF",
+        "btn_bg":"#0052FF33"
     },
     {
         "id": "10",
@@ -99,7 +110,8 @@
         "description":"Education is a fundamental and lifelong process of acquiring knowledge, skills, values, and attitudes. It plays a vital role in personal development, societal progress, and economic growth.",
         "price": 500.99,
         "background_color": "#FF444A26",
-        "text_color":"#FF444A"
+        "text_color":"#FF444A",
+        "btn_bg":"#FF444A33"
     },
     {
         "id": "11",
@@ -109,7 +121,8 @@
         "description":"In summary, clothing is an integral part of human life, serving functional, cultural, and expressive purposes. It encompasses a wide range of styles, materials, and designs, making it a dynamic and evolving aspect of human culture and identity.",
         "price": 800.99,
         "background_color": "#79C23F26",
-        "text_color":"#79C23F"
+        "text_color":"#79C23F",
+        "btn_bg":"#79C23F33"
     },
     {
         "id": "5",
@@ -119,6 +132,7 @@
         "description":"Better Food for Everyone represents a noble and aspirational goal related to improving the quality of food and the overall food system for the benefit of individuals and society as a whole..",
         "price": 350.99,
         "background_color": "#F8714726",
-        "text_color":"#F87147"
+        "text_color":"#F87147",
+        "btn_bg":"#F8714733"
     }
   ]
