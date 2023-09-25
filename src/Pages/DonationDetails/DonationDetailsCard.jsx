@@ -1,3 +1,6 @@
+/* eslint-disable react/prop-types */
+
+import swal from "sweetalert";
 
 
 const DonationDetailsCard = ({catagori}) => {
@@ -14,12 +17,26 @@ const DonationDetailsCard = ({catagori}) => {
         if(!donationItem){
             addDonationArray.push(catagori)
             localStorage.setItem('donation', JSON.stringify(addDonationArray))
-            alert('product added')
+            swal("Good job!", "Donation added successFully", "success");
 
-        }else{
-            addDonationArray.push(...donationItem, catagori)
+        }
+        else{
+            const isExits = donationItem.find(catagori=>catagori.id === id)
+            
+            if(!isExits){
+                addDonationArray.push(...donationItem, catagori)
             localStorage.setItem('donation', JSON.stringify(addDonationArray))
-            alert('product added')
+            swal("Good job!", "Donation added successFully", "success");
+           }
+           else{
+            swal("Error!", "Already Donation Done", "error");
+           }
+
+
+            
+
+
+            
         }
     } 
 
