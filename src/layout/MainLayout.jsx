@@ -4,7 +4,7 @@ import Navbar from "../components/Header/Navbar/Navbar";
 
 const MainLayout = () => {
     return (
-        <div className="container mx-auto">
+        <div className="container lg:max-w-7xl mx-auto">
             <Navbar></Navbar>
            <div className="py-10">
            <Outlet></Outlet>

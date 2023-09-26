@@ -34,8 +34,9 @@ const Donation = () => {
                 }
                 </div> 
                 {
-                    donations.length > 4 && <button onClick={()=>setIsShow(!isShow)} className="px-4 py-3 rounded-lg bg-[#009444] block mx-auto mt-10">See All</button>
+                    donations.length > 4 && !isShow &&  <button onClick={()=>setIsShow(!isShow)} className="px-4 py-3 rounded-lg bg-[#009444] block mx-auto mt-10">See All</button>
                 }
+
            </div>}
         </div>
     );
